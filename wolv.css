@@ -12,7 +12,7 @@ th.pt-1.pb-1::after, .table.mt-3 th.top::after {
 }
 
 #main {
-    background-color: rgb(229, 229, 229);
+    background-color: rgb(245, 244, 244);
 }
 
 #header .navbar-status, .navbar-main {
@@ -55,7 +55,7 @@ a:hover {
 }
 
 #sidebar {
-	background-color: rgba(229, 229, 229, 0);
+	background-color: rgb(245, 244, 244);
 	color: black;
 }
 
@@ -138,10 +138,6 @@ a:hover {
 
 .note-editor.note-airframe .note-editing-area .note-editable, .note-editor.note-frame .note-editing-area .note-editable {
 	background-color: rgba(255, 255, 255, 1);
-}
-
-.note-toolbar {
-	background: transparent;
 }
 
 .alert-info, .alert-success {
