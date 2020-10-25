@@ -96,6 +96,10 @@ a:hover {
 	color: white;
 }
 
+.card-body {
+	background-color: rgb(255, 81, 81);
+}
+
 .btn-link {
     color: white;
 }
