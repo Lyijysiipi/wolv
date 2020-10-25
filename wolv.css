@@ -1,0 +1,95 @@
+body {
+    background-image: url();
+    background-color: white;
+	color: white;
+}
+
+th.pt-1.pb-1::after, .table.mt-3 th.top::after {
+	content: "⛧";
+	color: rgba(230, 230, 230, 1);
+	position: absolute;
+	right: 4%;
+}
+
+#main {
+    background-color: rgba();
+}
+
+#header .navbar-status, .navbar-main {
+	background-color: rgb(255, 81, 81);
+}
+
+#header .navbar-status a:hover {
+	color: rgba(65, 127, 55, 1);
+}
+
+#header .text-dark {
+	color: rgba(155, 85, 48, 1);
+}
+
+#header .navbar-main, #footer {
+	background-color: rgb(28, 28, 28);
+}
+
+#header .navbar-main .nav-link, #header .navbar-main .nav-link .fa {
+	color: rgba(240, 240, 240, 1);
+}
+
+#header .navbar-main .nav-link:hover, #header .navbar-main .nav-link:hover .fa, #footer a:hover, #footer nav .nav-item .nav-link:hover {
+	color: rgb(218, 240, 234);
+}
+
+#header .breadcrumb-nav {
+	background-color: rgb(229, 229, 229);
+}
+
+.breadcrumb-item.active {
+	color: rgba(230, 230, 230, 1);
+}
+
+p,h1,h2,h3,h4 {
+    color: black;
+}
+
+a {
+    color: black;
+}
+a:hover {
+    color: rgb(255, 81, 81);
+}
+
+#sidebar {
+	background-color: rgb(229, 229, 229);
+	color: black;
+}
+
+#sidebar .multi-column {
+	padding-top: 15px;
+}
+
+#sidebar .card {
+	background-color: white;
+	border-bottom: 6px solid rgb(255, 81, 81);
+}
+
+#chatMessagePinned.s-chat-message__pinned {
+	background-color: rgb(255, 81, 81);
+	color: white;
+}
+
+#chatMessagePinned.s-chat-message__pinned a {
+	color: white;
+}
+
+.s-chat-message:nth-child(odd) {
+	color: black;
+}
+
+.s-chat-message:nth-child(even) {
+	color: black;
+}
+
+.card-header {
+	border: none;
+	background-color: rgb(255, 81, 81);
+}
