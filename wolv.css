@@ -113,11 +113,12 @@ a:hover {
 }
 
 .table .subheader {
-	background-color: rgb(10, 10, 10);
+	background-color: rgb(28, 28, 28);
 }
 
 .table .left {
-	background-color: rgba(10, 10, 10, 1);
+	background-color: rgb(28, 28, 28);
+	color: white;
 }
 
 .table-striped tbody tr:nth-of-type(odd) {
