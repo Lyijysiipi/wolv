@@ -101,7 +101,7 @@ a:hover {
 }
 
 .table th {
-	background-color: rgb(36, 104, 75);
+	background-color: rgb(255, 81, 81);
 }
 
 .table th a {
@@ -133,11 +133,11 @@ a:hover {
 }
 
 .form-control, .s-chat-sidebar #label_currentChannel, .note-toolbar .note-btn {
-	background-color: rgba(255, 255, 255, 0.5);
+	background-color: rgba(255, 255, 255, 1);
 }
 
 .note-editor.note-airframe .note-editing-area .note-editable, .note-editor.note-frame .note-editing-area .note-editable {
-	background-color: rgba(255, 255, 255, 0.5);
+	background-color: rgba(255, 255, 255, 1);
 }
 
 .note-toolbar {
