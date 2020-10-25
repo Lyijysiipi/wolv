@@ -12,7 +12,7 @@ th.pt-1.pb-1::after, .table.mt-3 th.top::after {
 }
 
 #main {
-    background-color: white;
+    background-color: rgb(229, 229, 229);
 }
 
 #header .navbar-status, .navbar-main {
@@ -36,11 +36,11 @@ th.pt-1.pb-1::after, .table.mt-3 th.top::after {
 }
 
 #header .breadcrumb-nav {
-	background-color: rgb(229, 229, 229);
+	background-color: rgb(255, 81, 81);
 }
 
 .breadcrumb-item.active {
-	color: rgba(230, 230, 230, 1);
+	color: white;
 }
 
 p,h1,h2,h3,h4 {
@@ -55,7 +55,7 @@ a:hover {
 }
 
 #sidebar {
-	background-color: rgba(229, 229, 229, 0.5);
+	background-color: rgba(229, 229, 229, 0);
 	color: black;
 }
 
