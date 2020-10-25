@@ -93,3 +93,67 @@ a:hover {
 	border: none;
 	background-color: rgb(255, 81, 81);
 }
+
+.btn-link {
+    color: white;
+}
+
+.table {
+	background-color: rgba(255,255,255,0);
+}
+
+.table th {
+	background-color: rgb(36, 104, 75);
+}
+
+.table th a {
+	color: white;
+}
+
+.table th a:hover {
+	color: rgba(255, 255, 255, 1);
+}
+
+.table .subheader {
+	background-color: rgb(10, 10, 10);
+}
+
+.table .left {
+	background-color: rgba(10, 10, 10, 1);
+}
+
+.table-striped tbody tr:nth-of-type(odd) {
+	background-color: transparent;
+}
+
+.table tr.pup, .table tr.pup:nth-of-type(odd) {
+	background-color: rgba(106, 69, 50, 0.15);
+}
+
+.table td.bottom {
+	background-color: rgba(10, 10, 10, 1);
+}
+
+	/* dropdown selectors */
+.form-control, .s-chat-sidebar #label_currentChannel, .note-toolbar .note-btn {
+	background-color: rgba(255, 255, 255, 0.5);
+}
+
+	/* den/profile editing area */
+.note-editor.note-airframe .note-editing-area .note-editable, .note-editor.note-frame .note-editing-area .note-editable {
+	background-color: rgba(255, 255, 255, 0.5);
+}
+
+.note-toolbar {
+	background: transparent;
+}
+
+.alert-info, .alert-success {
+	background-color: rgba(10, 10, 10, 1);
+	color: rgba(230, 230, 230, 1);
+	border: solid 0.5px white;
+}
+
+.alert-info a, .alert-success a {
+    color: white;
+}
