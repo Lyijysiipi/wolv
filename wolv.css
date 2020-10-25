@@ -1,7 +1,6 @@
 body {
     background-image: url();
     background-color: white;
-	color: white;
 }
 
 th.pt-1.pb-1::after, .table.mt-3 th.top::after {
