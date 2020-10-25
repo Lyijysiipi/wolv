@@ -12,7 +12,7 @@ th.pt-1.pb-1::after, .table.mt-3 th.top::after {
 }
 
 #main {
-    background-color: rgba();
+    background-color: white;
 }
 
 #header .navbar-status, .navbar-main {
@@ -21,10 +21,6 @@ th.pt-1.pb-1::after, .table.mt-3 th.top::after {
 
 #header .navbar-status a:hover {
 	color: rgba(65, 127, 55, 1);
-}
-
-#header .text-dark {
-	color: rgba(155, 85, 48, 1);
 }
 
 #header .navbar-main, #footer {
@@ -59,7 +55,7 @@ a:hover {
 }
 
 #sidebar {
-	background-color: rgb(229, 229, 229);
+	background-color: rgba(229, 229, 229, 0.5);
 	color: black;
 }
 
